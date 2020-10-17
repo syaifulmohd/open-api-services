@@ -1,0 +1,566 @@
+[
+	{
+		"name": "Brunei",
+		"topLevelDomain": [
+			".bn"
+		],
+		"alpha2Code": "BN",
+		"alpha3Code": "BRN",
+		"callingCodes": [
+			"673"
+		],
+		"capital": "Bandar Seri Begawan",
+		"altSpellings": [
+			"BN",
+			"Nation of Brunei",
+			" the Abode of Peace"
+		],
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"population": 393372,
+		"latlng": [
+			4.5,
+			114.66666666
+		],
+		"demonym": "Bruneian",
+		"area": 5765.0,
+		"gini": null,
+		"timezones": [
+			"UTC+08:00"
+		],
+		"borders": [
+			"MYS"
+		],
+		"nativeName": "Negara Brunei Darussalam",
+		"numericCode": "096",
+		"currencies": [
+			"BND"
+		],
+		"languages": [
+			"ms"
+		],
+		"translations": {
+			"de": "Brunei",
+			"es": "Brunei",
+			"fr": "Brunei",
+			"ja": "ブルネイ・ダルサラーム",
+			"it": "Brunei"
+		},
+		"relevance": "0"
+	},
+	{
+		"name": "Cambodia",
+		"topLevelDomain": [
+			".kh"
+		],
+		"alpha2Code": "KH",
+		"alpha3Code": "KHM",
+		"callingCodes": [
+			"855"
+		],
+		"capital": "Phnom Penh",
+		"altSpellings": [
+			"KH",
+			"Kingdom of Cambodia"
+		],
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"population": 15405157,
+		"latlng": [
+			13.0,
+			105.0
+		],
+		"demonym": "Cambodian",
+		"area": 181035.0,
+		"gini": 37.9,
+		"timezones": [
+			"UTC+07:00"
+		],
+		"borders": [
+			"LAO",
+			"THA",
+			"VNM"
+		],
+		"nativeName": "Kâmpŭchéa",
+		"numericCode": "116",
+		"currencies": [
+			"KHR"
+		],
+		"languages": [
+			"km"
+		],
+		"translations": {
+			"de": "Kambodscha",
+			"es": "Camboya",
+			"fr": "Cambodge",
+			"ja": "カンボジア",
+			"it": "Cambogia"
+		},
+		"relevance": "0"
+	},
+	{
+		"name": "Indonesia",
+		"topLevelDomain": [
+			".id"
+		],
+		"alpha2Code": "ID",
+		"alpha3Code": "IDN",
+		"callingCodes": [
+			"62"
+		],
+		"capital": "Jakarta",
+		"altSpellings": [
+			"ID",
+			"Republic of Indonesia",
+			"Republik Indonesia"
+		],
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"population": 255461700,
+		"latlng": [
+			-5.0,
+			120.0
+		],
+		"demonym": "Indonesian",
+		"area": 1904569.0,
+		"gini": 34.0,
+		"timezones": [
+			"UTC+07:00",
+			"UTC+08:00",
+			"UTC+09:00"
+		],
+		"borders": [
+			"TLS",
+			"MYS",
+			"PNG"
+		],
+		"nativeName": "Indonesia",
+		"numericCode": "360",
+		"currencies": [
+			"IDR"
+		],
+		"languages": [
+			"id"
+		],
+		"translations": {
+			"de": "Indonesien",
+			"es": "Indonesia",
+			"fr": "Indonésie",
+			"ja": "インドネシア",
+			"it": "Indonesia"
+		},
+		"relevance": "2"
+	},
+	{
+		"name": "Laos",
+		"topLevelDomain": [
+			".la"
+		],
+		"alpha2Code": "LA",
+		"alpha3Code": "LAO",
+		"callingCodes": [
+			"856"
+		],
+		"capital": "Vientiane",
+		"altSpellings": [
+			"LA",
+			"Lao",
+			"Lao People's Democratic Republic",
+			"Sathalanalat Paxathipatai Paxaxon Lao"
+		],
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"population": 6802000,
+		"latlng": [
+			18.0,
+			105.0
+		],
+		"demonym": "Laotian",
+		"area": 236800.0,
+		"gini": 36.7,
+		"timezones": [
+			"UTC+07:00"
+		],
+		"borders": [
+			"MMR",
+			"KHM",
+			"CHN",
+			"THA",
+			"VNM"
+		],
+		"nativeName": "ສປປລາວ",
+		"numericCode": "418",
+		"currencies": [
+			"LAK"
+		],
+		"languages": [
+			"lo"
+		],
+		"translations": {
+			"de": "Laos",
+			"es": "Laos",
+			"fr": "Laos",
+			"ja": "ラオス人民民主共和国",
+			"it": "Laos"
+		},
+		"relevance": "0"
+	},
+	{
+		"name": "Malaysia",
+		"topLevelDomain": [
+			".my"
+		],
+		"alpha2Code": "MY",
+		"alpha3Code": "MYS",
+		"callingCodes": [
+			"60"
+		],
+		"capital": "Kuala Lumpur",
+		"altSpellings": [
+			"MY"
+		],
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"population": 30678800,
+		"latlng": [
+			2.5,
+			112.5
+		],
+		"demonym": "Malaysian",
+		"area": 330803.0,
+		"gini": 46.2,
+		"timezones": [
+			"UTC+08:00"
+		],
+		"borders": [
+			"BRN",
+			"IDN",
+			"THA"
+		],
+		"nativeName": "Malaysia",
+		"numericCode": "458",
+		"currencies": [
+			"MYR"
+		],
+		"languages": [
+			"ms"
+		],
+		"translations": {
+			"de": "Malaysia",
+			"es": "Malasia",
+			"fr": "Malaisie",
+			"ja": "マレーシア",
+			"it": "Malesia"
+		},
+		"relevance": "0"
+	},
+	{
+		"name": "Myanmar",
+		"topLevelDomain": [
+			".mm"
+		],
+		"alpha2Code": "MM",
+		"alpha3Code": "MMR",
+		"callingCodes": [
+			"95"
+		],
+		"capital": "Naypyidaw",
+		"altSpellings": [
+			"MM",
+			"Burma",
+			"Republic of the Union of Myanmar",
+			"Pyidaunzu Thanmăda Myăma Nainngandaw"
+		],
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"population": 53897000,
+		"latlng": [
+			22.0,
+			98.0
+		],
+		"demonym": "Burmese",
+		"area": 676578.0,
+		"gini": null,
+		"timezones": [
+			"UTC+06:30"
+		],
+		"borders": [
+			"BGD",
+			"CHN",
+			"IND",
+			"LAO",
+			"THA"
+		],
+		"nativeName": "Myanma",
+		"numericCode": "104",
+		"currencies": [
+			"MMK"
+		],
+		"languages": [
+			"my"
+		],
+		"translations": {
+			"de": "Myanmar",
+			"es": "Myanmar",
+			"fr": "Myanmar",
+			"ja": "ミャンマー",
+			"it": "Birmania"
+		},
+		"relevance": "0"
+	},
+	{
+		"name": "Philippines",
+		"topLevelDomain": [
+			".ph"
+		],
+		"alpha2Code": "PH",
+		"alpha3Code": "PHL",
+		"callingCodes": [
+			"63"
+		],
+		"capital": "Manila",
+		"altSpellings": [
+			"PH",
+			"Republic of the Philippines",
+			"Repúblika ng Pilipinas"
+		],
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"population": 101920000,
+		"latlng": [
+			13.0,
+			122.0
+		],
+		"demonym": "Filipino",
+		"area": 342353.0,
+		"gini": 43.0,
+		"timezones": [
+			"UTC+08:00"
+		],
+		"borders": [],
+		"nativeName": "Pilipinas",
+		"numericCode": "608",
+		"currencies": [
+			"PHP"
+		],
+		"languages": [
+			"en"
+		],
+		"translations": {
+			"de": "Philippinen",
+			"es": "Filipinas",
+			"fr": "Philippines",
+			"ja": "フィリピン",
+			"it": "Filippine"
+		},
+		"relevance": "1.5"
+	},
+	{
+		"name": "Singapore",
+		"topLevelDomain": [
+			".sg"
+		],
+		"alpha2Code": "SG",
+		"alpha3Code": "SGP",
+		"callingCodes": [
+			"65"
+		],
+		"capital": "Singapore",
+		"altSpellings": [
+			"SG",
+			"Singapura",
+			"Republik Singapura",
+			"新加坡共和国"
+		],
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"population": 5469700,
+		"latlng": [
+			1.36666666,
+			103.8
+		],
+		"demonym": "Singaporean",
+		"area": 710.0,
+		"gini": 48.1,
+		"timezones": [
+			"UTC+08:00"
+		],
+		"borders": [],
+		"nativeName": "Singapore",
+		"numericCode": "702",
+		"currencies": [
+			"SGD"
+		],
+		"languages": [
+			"en",
+			"ms",
+			"ta",
+			"zh"
+		],
+		"translations": {
+			"de": "Singapur",
+			"es": "Singapur",
+			"fr": "Singapour",
+			"ja": "シンガポール",
+			"it": "Singapore"
+		},
+		"relevance": "0"
+	},
+	{
+		"name": "Thailand",
+		"topLevelDomain": [
+			".th"
+		],
+		"alpha2Code": "TH",
+		"alpha3Code": "THA",
+		"callingCodes": [
+			"66"
+		],
+		"capital": "Bangkok",
+		"altSpellings": [
+			"TH",
+			"Prathet",
+			"Thai",
+			"Kingdom of Thailand",
+			"ราชอาณาจักรไทย",
+			"Ratcha Anachak Thai"
+		],
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"population": 65104000,
+		"latlng": [
+			15.0,
+			100.0
+		],
+		"demonym": "Thai",
+		"area": 513120.0,
+		"gini": 40.0,
+		"timezones": [
+			"UTC+07:00"
+		],
+		"borders": [
+			"MMR",
+			"KHM",
+			"LAO",
+			"MYS"
+		],
+		"nativeName": "ประเทศไทย",
+		"numericCode": "764",
+		"currencies": [
+			"THB"
+		],
+		"languages": [
+			"th"
+		],
+		"translations": {
+			"de": "Thailand",
+			"es": "Tailandia",
+			"fr": "Thaïlande",
+			"ja": "タイ",
+			"it": "Tailandia"
+		},
+		"relevance": "0"
+	},
+	{
+		"name": "East Timor",
+		"topLevelDomain": [
+			".tl"
+		],
+		"alpha2Code": "TL",
+		"alpha3Code": "TLS",
+		"callingCodes": [
+			"670"
+		],
+		"capital": "Dili",
+		"altSpellings": [
+			"TL",
+			"East Timor",
+			"Democratic Republic of Timor-Leste",
+			"República Democrática de Timor-Leste",
+			"Repúblika Demokrátika Timór-Leste"
+		],
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"population": 1212107,
+		"latlng": [
+			-8.83333333,
+			125.91666666
+		],
+		"demonym": "East Timorese",
+		"area": 14874.0,
+		"gini": 31.9,
+		"timezones": [
+			"UTC+09:00"
+		],
+		"borders": [
+			"IDN"
+		],
+		"nativeName": "Timor-Leste",
+		"numericCode": "626",
+		"currencies": [
+			"USD"
+		],
+		"languages": [
+			"pt"
+		],
+		"translations": {
+			"de": "Timor-Leste",
+			"es": "Timor Oriental",
+			"fr": "Timor oriental",
+			"ja": "東ティモール",
+			"it": "Timor Est"
+		},
+		"relevance": "0"
+	},
+	{
+		"name": "Vietnam",
+		"topLevelDomain": [
+			".vn"
+		],
+		"alpha2Code": "VN",
+		"alpha3Code": "VNM",
+		"callingCodes": [
+			"84"
+		],
+		"capital": "Hanoi",
+		"altSpellings": [
+			"VN",
+			"Socialist Republic of Vietnam",
+			"Cộng hòa Xã hội chủ nghĩa Việt Nam"
+		],
+		"region": "Asia",
+		"subregion": "South-Eastern Asia",
+		"population": 91812000,
+		"latlng": [
+			16.16666666,
+			107.83333333
+		],
+		"demonym": "Vietnamese",
+		"area": 331212.0,
+		"gini": 35.6,
+		"timezones": [
+			"UTC+07:00"
+		],
+		"borders": [
+			"KHM",
+			"CHN",
+			"LAO"
+		],
+		"nativeName": "Việt Nam",
+		"numericCode": "704",
+		"currencies": [
+			"VND"
+		],
+		"languages": [
+			"vi"
+		],
+		"translations": {
+			"de": "Vietnam",
+			"es": "Vietnam",
+			"fr": "Viêt Nam",
+			"ja": "ベトナム",
+			"it": "Vietnam"
+		},
+		"relevance": "1.5"
+	}
+]
